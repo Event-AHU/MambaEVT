@@ -51,11 +51,29 @@ python tracking/test.py ostrack EventVOT_MambaEVT_demo --dataset eventvot --thre
 
 
 
+### Acknowledgement 
+We would like to thank the following works 
+[[OSTrack]()] 
+[[Mamba]()] 
+[[FE108 Dataset]()] 
+[[EventVOT Dataset]()] 
+[[VisEvent Dataset]()] 
 
+## :newspaper: Citation 
+If you find this work helps your research, please star this GitHub and cite the following papers: 
+```bibtex
+@misc{wang2024MambaEVT,
+      title={MambaEVT: Event Stream based Visual Object Tracking using State Space Model}, 
+      author={Xiao Wang and Chao wang and Shiao Wang and Xixi Wang and Zhicheng Zhao and Lin Zhu and Bo Jiang},
+      year={2024},
+      eprint={2408.10487},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.10487}, 
+}
+```
 
-
-
-
+If you have any questions about these works, please feel free to leave an issue. 
 
 
 
