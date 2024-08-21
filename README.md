@@ -53,11 +53,14 @@ python tracking/test.py ostrack EventVOT_MambaEVT_demo --dataset eventvot --thre
 
 ### Acknowledgement 
 We would like to thank the following works 
-[[OSTrack]()] 
-[[Mamba]()] 
-[[FE108 Dataset]()] 
-[[EventVOT Dataset]()] 
-[[VisEvent Dataset]()] 
+[[OSTrack](https://github.com/botaoye/OSTrack)] 
+[[Vision Mamba](https://github.com/hustvl/Vim)]  
+[[THOR](https://github.com/xl-sr/THOR)]
+[[FE108 Dataset](https://zhangjiqing.com/dataset/)] 
+[[EventVOT Dataset](https://github.com/Event-AHU/EventVOT_Benchmark)] 
+[[VisEvent Dataset](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)] 
+
+
 
 ## :newspaper: Citation 
 If you find this work helps your research, please star this GitHub and cite the following papers: 
