@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/Event-AHU/MambaEVT/blob/main/EventVOT_demo.gif" width="400">
+<img src="https://github.com/Event-AHU/MambaEVT/blob/main/EventVOT_demo.gif" width="600">
 </p>
 
 
