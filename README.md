@@ -4,7 +4,7 @@
 </p>
 
 
-#### MambaEVT: Event Stream based Visual Object Tracking using State Space Model, 
+#### [arXiv:2408.10487] MambaEVT: Event Stream based Visual Object Tracking using State Space Model, 
 Xiao Wang, Chao wang, Shiao Wang, Xixi Wang, Zhicheng Zhao, Lin Zhu, Bo Jiang 
 [[Paper](https://www.arxiv.org/pdf/2408.10487)]
 
