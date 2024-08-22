@@ -1,8 +1,7 @@
 
 <p align="center">
-<img src="https://github.com/Event-AHU/MambaEVT/blob/main/MambaEVT.gif" width="500">
+<img src="https://github.com/Event-AHU/MambaEVT/blob/main/EventVOT_demo.gif" width="500">
 </p>
-
 
 
 ### MambaEVT: Event Stream based Visual Object Tracking using State Space Model
